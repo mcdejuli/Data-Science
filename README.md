@@ -11,7 +11,7 @@ Meu portifólio de projetos de data science
 
 Doutor em Física pela UFRGS, com stágio de pós-doutoramento IAG-USP. Participei do programa Jovem Pesquisador-FAPESP desenvolvido na Universidade Presbiteriana Mackenzie-CRAAM. Especialização em Computação aplicada à educação (ICMC-USP). Desenvolvimento de pesquisa teórica na área de Física de Plasmas.
 
-**Background in:** Matemática, Física, Python, WEKA.
+**Background in:** Matemática, Física, WEKA, MAPLE.
 
 **Links:**
 * [Blog]()
