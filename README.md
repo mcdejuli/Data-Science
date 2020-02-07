@@ -7,7 +7,7 @@ Meu portifólio de projetos de data science
 </p>
 
 # Marcelo Camargo de Juli
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*</sub>
 
 Doutor em Física pela UFRGS, com stágio de pós-doutoramento IAG-USP. Participei do programa Jovem Pesquisador-FAPESP desenvolvido na Universidade Presbiteriana Mackenzie-CRAAM. Especialização em Computação aplicada à educação (ICMC-USP). Desenvolvimento de pesquisa teórica na área de Física de Plasmas.
 
