@@ -16,9 +16,10 @@ Doutor em Física pela UFRGS, com estágio de pós-doutoramento IAG-USP. Partici
 **Background in:** Matemática, Física, WEKA, MAPLE.
 
 **Links:**
-* [Blog]()
-* [LinkedIn]()
+* [Blog](https://marcelodejuli.wordpress.com/producao/)
+* [LinkedIn](https://www.linkedin.com/in/marcelo-camargo-de-juli-26169b189/?originalSubdomain=br)
 * [Medium]()
+* Google Acadêmico(https://scholar.google.com.br/citations?user=BfflIygAAAAJ&hl=pt-BR)
 
 
 ## Projetos:
