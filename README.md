@@ -2,7 +2,7 @@
 Meu portifólio de projetos de data science
 [![author](https://img.shields.io/badge/author-mcdejuli-red.svg)](https://www.linkedin.com/in/marcelo-camargo-de-juli-26169b189/) 
 [![](https://img.shields.io/badge/WEKA-blue.svg)](https://www.cs.waikato.ac.nz/ml/weka/) 
-(https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+
 
 <p align="center">
   <img src="banner.png" >
