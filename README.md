@@ -11,7 +11,7 @@ Meu portifólio de projetos de data science
 # Marcelo Camargo de Juli
 <sub>*</sub>
 
-Doutor em Física pela UFRGS, com stágio de pós-doutoramento IAG-USP. Participei do programa Jovem Pesquisador-FAPESP desenvolvido na Universidade Presbiteriana Mackenzie-CRAAM. Especialização em Computação aplicada à educação (ICMC-USP). Desenvolvimento de pesquisa teórica na área de Física de Plasmas.
+Doutor em Física pela UFRGS, com estágio de pós-doutoramento IAG-USP. Participei do programa Jovem Pesquisador-FAPESP desenvolvido na Universidade Presbiteriana Mackenzie-CRAAM. Especialização em Computação aplicada à educação (ICMC-USP). Desenvolvimento de pesquisa teórica na área de Física de Plasmas.
 
 **Background in:** Matemática, Física, WEKA, MAPLE.
 
